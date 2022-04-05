@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>154549844820-brem3d62stdp4o4l15tq34idbirktk66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.154549844820-brem3d62stdp4o4l15tq34idbirktk66</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBso_-ZFos61k7irl5xLQW0b4YZKfuy7oo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>154549844820</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AdebayoSotannde.TrackIt.Track-It</string>
+	<key>PROJECT_ID</key>
+	<string>track-it-216eb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>track-it-216eb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:154549844820:ios:a7d0dd3a8d1317a5c526c1</string>
+</dict>
+</plist>
